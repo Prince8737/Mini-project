@@ -17,6 +17,4 @@ SpaceX Clone Website Builder is a revolutionary tool designed to simplify the co
 
 5. **Scalability and Performance:** Our platform is built with scalability and performance in mind, ensuring fast load times and reliable uptime for your website, even as your traffic grows.
 
-## Live Demo
 
-Check out our live demo to experience the power and simplicity of SpaceX Clone Website Builder in action: [Live Demo](https://example.com)
